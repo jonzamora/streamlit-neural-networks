@@ -1,10 +1,10 @@
-# Streamlit App for Neural Networks
+# Streamlit Apps for Neural Networks
 
 ## Introduction
 
 I am using this repository to experiment with [Streamlit](https://streamlit.io/), an open-source Python library which makes it easy to create and share elegant, custom web apps for Machine Learning and Data Science.
 
-I'm hoping to implement some simple Streamlit apps for my Neural Networks which can help me (and hopefully others) with their development and understanding of Neural Networks.
+I'm hoping to implement some simple Streamlit apps for Neural Networks which can help me (and hopefully others) with their development and understanding of Neural Networks.
 
 ## Getting Started
 
