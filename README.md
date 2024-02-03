@@ -27,7 +27,7 @@ pip install streamlit watchdog
 From your terminal, run the following command:
 
 ```bash
-streamlit run src/first_app.py
+streamlit run src/main-concepts/1-displaying-data.py
 ```
 
 You will be provided with a Local URL and Network URL from Streamlit to view the app in your browser. Both URLs should work.
