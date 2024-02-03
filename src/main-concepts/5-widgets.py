@@ -1,6 +1,6 @@
 """
 My fifth app
-We now get into Widgets, including:
+We now get into Widgets for Streamlit apps, including:
 1. Text Input
 2. Slider Input
 3. Checkboxes
