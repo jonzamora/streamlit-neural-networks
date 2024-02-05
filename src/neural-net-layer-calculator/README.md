@@ -1,6 +1,5 @@
 # Neural Net Layer Calculator
 
-
 ## Motivation
 
 Creating Neural Network architectures can be a daunting task for many people. 
